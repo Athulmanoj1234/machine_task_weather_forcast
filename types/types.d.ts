@@ -15,3 +15,9 @@ export type ForecastItem = {
   temp_max: number; 
   icon: string; 
 };
+
+export type ToastProps = {
+  text1: string;
+  text2?: string;
+  props?: any;
+};
