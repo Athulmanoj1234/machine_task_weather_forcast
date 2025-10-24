@@ -54,3 +54,4 @@ Join our community of developers creating universal apps.
 from developer side 
 
 if the app simulated and opened and comed like unmatched route please click on go back button. and the screen will be present.
+if cors error occurs while running in web type this command in cmd and safe mode browser will be opened and type the projects url - start chrome --disable-web-security --user-data-dir="C:\chrome-dev"
